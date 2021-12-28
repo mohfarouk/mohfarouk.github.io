@@ -1,0 +1,11 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: index.md
+
+- title: Test 1
+  url: test1.md
+
+- title: Test 2
+  url: test1.md

@@ -14,7 +14,7 @@ Hope you will find this website useful.
 
 So what will be the topics that I will write about?
 
-You can check them in the [topcics page](/topics)
+You can check them in the [topics page](/topics)
   
 
 ## My CV 

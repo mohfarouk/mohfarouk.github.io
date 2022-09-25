@@ -50,7 +50,7 @@ B.Sc., M.Sc. Computer Engineering
 [![Sakhr Software](https://m.eyeofriyadh.com/directory/images/2018/04/3bc6c757d554.png){:height="100x"}](http://www.sakhr.com/) &nbsp;&nbsp;
 [![Integral Solutions](https://www.integral.com.om/images/logo.png){:height="100x"}](http://www.integral.com.om/) &nbsp;&nbsp;
 [![Rasan Software House](https://www.arabnews.com/sites/default/files/2021/11/17/2918206-1580745978.png){:height="80"}](https://www.rasan.co/) &nbsp;&nbsp;
-[![Global Business Network](http://www.gbn-egypt.com/Portals/0/Welcare/Images/GBNlogo.png){:height="100"}](http://www.gbn-egypt.com/)
+[![Global Business Network](https://scontent.fdxb1-1.fna.fbcdn.net/v/t1.18169-9/10426261_1019606334740972_16336748507218073_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W6zDC7MSyOwAX8Ol23T&_nc_ht=scontent.fdxb1-1.fna&oh=00_AT-wD0jMEI_3TjzRqhT8fioyx-98E-1cgcehKXwRyqnSbQ&oe=63551C55){:height="100"}](http://www.gbn-egypt.com/)
 
 
 <br/>

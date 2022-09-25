@@ -25,7 +25,7 @@ Junior Developer ![Then](https://www.shareicon.net/download/2017/01/31/877244_ri
 
 
 ### Education
-  - B.Sc., M.Sc. Computer Engineering 
+B.Sc., M.Sc. Computer Engineering 
 
 ### Certificates
 

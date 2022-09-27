@@ -24,10 +24,10 @@ Junior Developer ![Then](https://www.shareicon.net/download/2017/01/31/877244_ri
 
 
 
-### Education
+## Education
 B.Sc., M.Sc. Computer Engineering 
 
-### Certificates
+## Certificates
 
 |Certificate| History  |
 |--|--|
@@ -43,7 +43,7 @@ B.Sc., M.Sc. Computer Engineering
 
 <br/>
 
-##   Companies worked for 
+## Companies worked for 
 
 [![Nortal](https://upload.wikimedia.org/wikipedia/commons/0/07/Nortal_logo.png){:height="100x"} ](https://nortal.com/) &nbsp;&nbsp;
 [![Aria Systems](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1397192201/916a7b6a1deffd98e078321028fcd0cb.gif){:height="100x"}](https://ariasystems.biz/) &nbsp;&nbsp;

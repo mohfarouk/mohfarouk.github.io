@@ -10,7 +10,11 @@ premalink: "features-prioritization-techniques"
 There are multiple prioritization techniques that can be used to prioritize features for a product. Below are some of these techniques. 
 
 ## Value vs. Complexity
-TODO: add description here
+Used to evaluate the initiates by using quadrant and plot the intiatives based on the values they bring and the difficulties to implement them   
+- How to determine Value?
+  - TODO: I need to add text here
+- How to determine Complexity? 
+  - TODO: I need to add text here
 
 ## Kano Model
 TODO: add description here
